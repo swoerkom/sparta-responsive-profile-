@@ -29,6 +29,24 @@
 	}
 }
 
+/* tablet screens  */
+@media screen and (min-width: 501px) and (max-width: 850px) {
+	.main-content {
+		margin: 50px;
+		text-align: center;
+	}
+
+	.left #headshot {
+		width: 75%;
+		text-align: center;
+		height: 75%;
+		margin: 10px auto 0;
+	}
+
+	li {
+		text-align: left;
+	}
+}
 
 header, section {
 	display: inline-block;
