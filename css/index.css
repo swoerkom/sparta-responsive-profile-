@@ -1,3 +1,35 @@
+/* phone screens  */
+@media screen and (max-width: 500px) {
+	.main-content {
+	  margin: 5px 5px;
+		text-align: center;
+	}
+
+	.main-content .left  {
+		width: 100%;
+	}
+
+	.main-content .right{
+		width: 100%;
+	}
+
+	.main-content .right {
+		width: 100%;
+	}
+
+	li {
+		text-align: left;
+  }
+
+	.left #headshot {
+		width: 25%;
+		text-align: center;
+		height: 25%;
+		margin: 10px auto 0;
+	}
+}
+
+
 header, section {
 	display: inline-block;
 }
