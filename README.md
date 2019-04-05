@@ -1,21 +1,14 @@
-# CSS Media Queries Lab
+# sparta-responsive-profile
 
-## Timings
+**Task:** To edit an unresponsive CSS layout and add CSS media queries to make the website accessible from all screen widths and devices. To make sure that the page has two noticably different layouts at different screen widths.
 
-45 - 60 minutes
 
-## Summary
+Used media queries to select div elements and make width 100% so that at selected screen sizes the elements would stack on top of each other by taking up the full width of the page. Also made headshot image smaller when screen size was reduced. Created two break points, so that the website layout was accessible for mobile, tablet and desktop view.
 
-Starting from an unresponsive CSS layout of Steve's profile (or your own version if you prefer) use CSS media queries to make the website aesthetically pleasing at all screen widths and devices. Ensure the page has at least two noticeably different layouts at different screen widths.
 
-Here are some helpful hints to get you started: 
+Home page in mobile view 
+![Homepage at mobile view](mobile-homepage.png)
 
- - Remember that CSS is read downwards and overwrites as it goes down
- - Start mobile first - how does this dictate what kind of media query you will use?
- - The panels on the projects page are perfect for making responsive - how could you position them to make better use of the space you have?
- - Have a look at common websites and how they handle responsiveness - how complex is a usual mobile page compared to a full width desktop page?
 
-## Bonus Tasks
-
- 1. Have two breakpoints, giving a mobile, tablet and desktop view
- 2. Simplify your CSS as much as possible - prizes for the least lines of CSS code!
+Projects page in mobile view 
+![Projects page at mobile view](mobile-projects.png)
