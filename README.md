@@ -7,8 +7,12 @@ Used media queries to select div elements and make width 100% so that at selecte
 
 
 Home page in mobile view 
+
+
 ![Homepage at mobile view](mobile-homepage.png)
 
 
 Projects page in mobile view 
+
+
 ![Projects page at mobile view](mobile-projects.png)
